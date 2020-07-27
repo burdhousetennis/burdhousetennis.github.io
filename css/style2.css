@@ -1,0 +1,28 @@
+.vertical-center {
+    height: 100%;
+    width: 100%;
+
+    text-align: center;
+    /* align the inline(-block) elements horizontally */
+}
+
+.strategy-center {
+    width: 100%;
+    text-align: center;
+}
+
+select {
+    width: 400px;
+    text-align-last: center;
+}
+
+.flex-box{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+
+  .jumbotron {
+    background-image: url("/images/bears_bulls.PNG");
+    background-size: cover;
+  }
